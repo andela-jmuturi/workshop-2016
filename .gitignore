@@ -127,8 +127,4 @@ node_modules
 # Finder stuff
 .DS_Store
 
-!dist/index.html
-!dist/styles.css
-dist/
-
 .happypack
