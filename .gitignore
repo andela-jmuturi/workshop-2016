@@ -133,4 +133,4 @@ node_modules
 *~
 \#*#
 *.swp
-i
+*.fasl
