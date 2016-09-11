@@ -128,3 +128,9 @@ node_modules
 .DS_Store
 
 .happypack
+
+# Backup files
+*~
+\#*#
+*.swp
+i
