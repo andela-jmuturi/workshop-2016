@@ -10,6 +10,9 @@ class BinaryTree:
         self.right_child = None
         self.left_child = None
 
+    def __repr__(self):
+        return f'<BinaryTree: "{self.key}">'
+
     def insert_right(self, new_node):
         new_subtree = BinaryTree(new_node)
         if self.right_child is None:
